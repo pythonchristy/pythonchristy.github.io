@@ -1,4 +1,4 @@
-	name: Christy Heaton
-	markdown: kramdown
-	permalink: /blog/:year/:month/:day/:title
+name: Christy Heaton
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
 	
